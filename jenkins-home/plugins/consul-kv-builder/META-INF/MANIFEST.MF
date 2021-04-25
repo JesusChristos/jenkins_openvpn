@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: pim329
+Build-Jdk: 1.8.0_74
+Extension-Name: consul-kv-builder
+Specification-Title: Consul KV BUilder for reading/writing/deleting K,
+ V pairs in Consul.
+Implementation-Title: consul-kv-builder
+Implementation-Version: 2.0.13
+Group-Id: org.jenkins-ci.plugins
+Short-Name: consul-kv-builder
+Long-Name: Consul KV Builder
+Url: https://wiki.jenkins-ci.org/display/JENKINS/Consul-KV-Builder+Plu
+ gin
+Plugin-Version: 2.0.13
+Hudson-Version: 1.625.3
+Jenkins-Version: 1.625.3
+Plugin-Developers: Jimmy Ray:jimmyraywv:james.ray@capitalone.com
+
